@@ -1,12 +1,8 @@
 //Ryan Potter and Patrick Eddy
 
 import java.awt.Dimension;
-import java.awt.Point;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Random;
-import java.util.Set;
 import java.util.Stack;
 
 import javax.swing.JFrame;
